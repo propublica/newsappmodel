@@ -1,0 +1,7 @@
+Category,Artifacts,Attributes,Archival Requirement
+Code,"Front-end software, Back-end software, Data Code, Internal libraries","Actors, Documentation, Transformations, Versions, Decisions",Preserve
+Data (Input),"Clean data, Raw data (copyright?), Metadata, Data Structure (field layout, data dictionary), UGC data, Live Data APIs, Reporting material,","Actors, Documentation, Transformations, Versions, Decisions",Preserve
+Story (Output),"Narrative story, Links, Images/Audio/Multimedia, APIs we publish, UX, Viz Design, IA/HIerarchy/Taxonomy, Annotations, API Documentation","Actors, Documentation, Transformations, Versions, Decisions",Preserve
+Infrastructure,"The Internet, Browser, Server (OS, Language, Framework), Display APIs (external), Vendor libraries and dependencies, Platform (external hosting), Hardware, RDBMS/NoSQL, Bandwidth","Actors, Documentation, Decisions, Versions","Simulate, Emulate, Virtualize"
+Process,"Code documented, Code ""History"" (git), Data Transformation, Data documentation, Cultural Context and Moment, Design Patterns, Edits of Story, Data sources (FOIA letters)","Actors, Documentation, Transformations, Versions, Decisions",Preserve
+Response,"Comments, Metrics, Awards, User Behavior, Logs, Inbound Links, Reaction/Media Coverage, Tweets, Impact, Intermediate Outcomes","Actors, Decisions",Preserve
