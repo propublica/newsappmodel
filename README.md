@@ -1,5 +1,7 @@
 # A Conceptual Model for Interactive Database Projects in News
 
+By Tyler Fisher, Knight Lab and Scott Klein, ProPublica
+
 On Sunday, March 2, [Knight-Mozilla OpenNews](http://opennews.org), the [Newseum](http://newseum.org) and [Pop Up Archive](https://www.popuparchive.org) hosted a one-day conference focused on solving a fairly new problem: How to preserve the new breed of complex interactive projects that are becoming more prevalent in news. While print newspapers are [relatively well-preserved](http://newseum.org/exhibits-and-theaters/permanent-exhibits/news-history/index.html), we as an industry do a poor job of preserving interactive databases and online data visualizations, and they are in danger of being lost to history.
 
 Inside newsrooms, these interactive databases are sometimes called “news applications” — but don’t be confused. They’re interactive databases published on the web, not something you buy on your smartphone. Think [Dollars for Docs](http://projects.propublica.org/docdollars/), not Angry Birds.
