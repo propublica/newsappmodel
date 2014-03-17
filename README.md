@@ -1,13 +1,5 @@
 # A Conceptual Model for Interactive Database Projects in News
 
-## Contributing
-
-1. Fork it
-2. Create your branch (`git checkout -b my-model`)
-3. Commit your changes (`git commit -am "Proposed Change"`)
-4. Push your branch (`git push origin my-model`)
-5. Send a pull request
-
 On Sunday, March 2, [Knight-Mozilla OpenNews](http://opennews.org), the [Newseum](http://newseum.org) and [Pop Up Archive](https://www.popuparchive.org) hosted a one-day conference focused on solving a fairly new problem: How to preserve the new breed of complex interactive projects that are becoming more prevalent in news. While print newspapers are [relatively well-preserved](http://newseum.org/exhibits-and-theaters/permanent-exhibits/news-history/index.html), we as an industry do a poor job of preserving interactive databases and online data visualizations, and they are in danger of being lost to history.
 
 Inside newsrooms, these interactive databases are sometimes called “news applications” — but don’t be confused. They’re interactive databases published on the web, not something you buy on your smartphone. Think [Dollars for Docs](http://projects.propublica.org/docdollars/), not Angry Birds.
@@ -47,3 +39,12 @@ With a defined model of news applications, it becomes clear that archiving a new
 This is just a first stab at the model. Our draft is the result of a few hours’ effort and we’ve [posted it to GitHub](https://github.com/propublica/newsappmodel). We hold no monopoly on the idea. Feel free to fork it and send us pull requests and to open issues to give us better ideas.
 
 Eventually, we hope this model can serve as a document for understanding how to preserve a news application, and to start a conversation about how to tackle each part. Preserving our work for future generations is crucial. Just as we can look at a *New York Herald* issue from the middle of the Civil War, even though the *Herald* itself and everybody associated with it has long since died, we hope that future news nerds can look at the work we do long after we’re gone. The challenge is great, but monumentally important.
+
+## Contributing
+
+1. Fork it
+2. Create your branch (`git checkout -b my-model`)
+3. Commit your changes (`git commit -am "Proposed Change"`)
+4. Push your branch (`git push origin my-model`)
+5. Send a pull request
+
