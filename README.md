@@ -30,7 +30,7 @@ The **Response Category** includes user comments, site metrics, awards won, user
 
 Every category has **actors**, or people who perform tasks on this category. When archiving, ask who those actors were and the **decisions** they made. Save **versions** of each artifact to show how something **transformed** over time. And of course, provide **documentation** for all of these things.
 
-Perhaps this allseems laborious or trivial, but knowing exactly what goes into and comes out of a news application is fundamental to understanding how to preserve one.
+Perhaps this all seems laborious or trivial, but knowing exactly what goes into and comes out of a news application is fundamental to understanding how to preserve one.
 
 The model is not so much a way to think about how to *build* news apps — though it certainly does strongly imply something about how they’re built — as it is a way to understand them as human-made objects, and how to break them down in order to preserve them. Separating “code” from “infrastructure” and “data” is not all that helpful when building, but preserving each category requires separate and intentional efforts, different skills and technologies.
 
